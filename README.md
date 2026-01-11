@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Atif, a Data Science student with an application development background, working with data.
+
 - 🔭 I’m currently working on **data analytics projects** involving **data cleaning**, **analysis**, **and dashboard development**.
   
 - 🌱 I’m learning advanced **data analytics**, **statistical modeling** and **applied machine learning** as part of my **MSc in Data Science**.
@@ -10,8 +12,6 @@
   
 - 💬 Ask me about **Python**, **Swift**, **SQL**, **Power BI**, **APIs**, **JSON-based data processing**, and **data-driven applications**.
   
-- ⚡ Fun fact: I enjoy turning **complex data problems** into clear, practical insights.
-
 <!--
 **muimt25/muimt25** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
